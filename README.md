@@ -1,4 +1,4 @@
-### React Supabase Food Delivery App
+### React Supabase Food Delivery Avable
 
 * Login --> ok
 * Register --> ok
